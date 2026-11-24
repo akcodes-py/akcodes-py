@@ -45,7 +45,7 @@
     <td colspan="3" bgcolor="#111827">
       <strong>Languages</strong><br /><br />
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,go,rust,bash,html,css&theme=dark&perline=10" alt="languages" />
+        <img src="https://skillicons.dev/icons?i=py,c,js,ts,go,rust,bash,html,css&theme=dark&perline=9" alt="languages" />
       </a>
     </td>
   </tr>
