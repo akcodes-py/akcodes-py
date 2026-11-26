@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3776AB,100:FFD343&height=200&section=header&text=Atul%20Kumar&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=AI/ML%20%7C%20Full%20Stack%20Dev%20%7C%20Open%20Source&descAlignY=60&animation=fadeIn" alt="header" />
 </div>
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 🐍 Python — My Primary Language
+## ðŸ Python â€” My Primary Language
 
 <div align="center">
 
@@ -31,35 +31,35 @@
 class AtulKumar:
     name       = "Atul Kumar"
     role       = "AI/ML & Full Stack Engineer"
-    superpower = "🐍 Python"
-    building   = "CogniGraph — AI-Powered Knowledge Workspace"
+    superpower = "ðŸ Python"
+    building   = "CogniGraph â€” AI-Powered Knowledge Workspace"
     stack      = ["Python", "FastAPI", "LangGraph", "PyTorch", "React", "Next.js"]
     interests  = ["Agentic AI", "RAG Systems", "FinTech", "MLOps"]
     contact    = "atulkumar.m512@gmail.com"
 
     def daily_routine(self):
-        return "☕ Coffee  →  🐍 Python  →  🧠 AI  →  🚀 Ship"
+        return "â˜• Coffee  â†’  ðŸ Python  â†’  ðŸ§  AI  â†’  ðŸš€ Ship"
 
 me = AtulKumar()
 print(me.daily_routine())
-# Output: ☕ Coffee  →  🐍 Python  →  🧠 AI  →  🚀 Ship
+# Output: â˜• Coffee  â†’  ðŸ Python  â†’  ðŸ§  AI  â†’  ðŸš€ Ship
 ```
 
 </div>
 
 ---
 
-## ✨ About Me
+## âœ¨ About Me
 
-- 🔭 Currently building: **CogniGraph** — AI-Powered Knowledge Workspace (Gemini + LangGraph RAG)
-- 🌱 Currently learning: **LangGraph**, **Agentic AI**, **MLOps**, **RAG Systems**
-- 🧠 Focus areas: **AI/ML Engineering**, **FinTech & Compliance**, **Full Stack Development**
-- 🐍 **Python** is my go-to language for everything — ML, backends, automation & scripting
-- 📫 Reach me: **atulkumar.m512@gmail.com**
+- ðŸ”­ Currently building: **CogniGraph** â€” AI-Powered Knowledge Workspace (Gemini + LangGraph RAG)
+- ðŸŒ± Currently learning: **LangGraph**, **Agentic AI**, **MLOps**, **RAG Systems**
+- ðŸ§  Focus areas: **AI/ML Engineering**, **FinTech & Compliance**, **Full Stack Development**
+- ðŸ **Python** is my go-to language for everything â€” ML, backends, automation & scripting
+- ðŸ“« Reach me: **atulkumar.m512@gmail.com**
 
 ---
 
-## 🌐 Connect With Me
+## ðŸŒ Connect With Me
 
 <div align="center">
 
@@ -72,7 +72,7 @@ print(me.daily_routine())
 
 ---
 
-## 💻 Tech Stack
+## ðŸ’» Tech Stack
 
 <div align="center">
 
@@ -80,7 +80,7 @@ print(me.daily_routine())
   <tr>
     <td colspan="3" bgcolor="#111827">
       <strong>Languages</strong> &nbsp;
-      <img src="https://img.shields.io/badge/Python-★★★★★-FFD343?style=flat&logo=python&logoColor=3776AB" alt="Python level" />
+      <img src="https://img.shields.io/badge/Python-â˜…â˜…â˜…â˜…â˜…-FFD343?style=flat&logo=python&logoColor=3776AB" alt="Python level" />
       <br /><br />
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=py,c,js,ts,go,rust,bash,html,css&theme=dark&perline=9" alt="languages" />
@@ -115,7 +115,7 @@ print(me.daily_routine())
       </a>
     </td>
     <td bgcolor="#111827" valign="top">
-      <strong>🐍 ML & AI (Python)</strong><br /><br />
+      <strong>ðŸ ML & AI (Python)</strong><br /><br />
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark&perline=4" alt="ml and ai" />
       </a>
@@ -154,12 +154,12 @@ print(me.daily_routine())
 
 ---
 
-## 📊 GitHub Statistics
+## ðŸ“Š GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/akcodes-py">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akcodes-py&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura_dark&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,prs_merged_percentage" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akcodes-py&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura_dark&rank_icon=github" alt="stats" />
 </a>
 <a href="https://github.com/akcodes-py">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akcodes-py&layout=compact&theme=aura_dark&langs_count=8&card_width=320&hide=jupyter%20notebook" alt="top languages" />
@@ -181,7 +181,7 @@ print(me.daily_routine())
 
 ---
 
-## 📈 Activity Graph
+## ðŸ“ˆ Activity Graph
 
 <div align="center">
 
@@ -191,7 +191,7 @@ print(me.daily_routine())
 
 ---
 
-## 🐍 Python Snake Contributions
+## ðŸ Python Snake Contributions
 
 <div align="center">
 
@@ -205,7 +205,7 @@ print(me.daily_routine())
 
 ---
 
-## 🔭 Featured Projects
+## ðŸ”­ Featured Projects
 
 <div align="center">
 
@@ -231,13 +231,13 @@ print(me.daily_routine())
 
 ---
 
-## 🎯 What Drives Me
+## ðŸŽ¯ What Drives Me
 
 <div align="center">
 
-✨ **Building Intelligent Systems** | 🐍 **Python-First Engineering** | 🏗️ **Scaling from MVP to Production**
+âœ¨ **Building Intelligent Systems** | ðŸ **Python-First Engineering** | ðŸ—ï¸ **Scaling from MVP to Production**
 
-⚡ **Agentic AI & RAG** | 🌐 **Open Source Collaboration** | 🧩 **Solving Real-World Problems**
+âš¡ **Agentic AI & RAG** | ðŸŒ **Open Source Collaboration** | ðŸ§© **Solving Real-World Problems**
 
 </div>
 
@@ -252,3 +252,4 @@ print(me.daily_routine())
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3776AB,100:FFD343&height=120&section=footer" alt="footer" />
 </div>
+
