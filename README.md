@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=FFD343&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Atul+Kumar+%F0%9F%91%8B;Python+%F0%9F%90%8D+is+my+Superpower;AI%2FML+%26+Full+Stack+Engineer;Building+CogniGraph+%F0%9F%A7%A0;FinTech+%26+Agentic+AI+Explorer;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=FFD343&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Atul+Kumar;AI%2FML+%26+Full+Stack+Engineer;Building+CogniGraph;FinTech+%26+Agentic+AI+Explorer;Turning+Coffee+into+Code" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -21,7 +21,7 @@
 
 ---
 
-## ðŸ Python â€” My Primary Language
+## 🐍 Python — My Primary Language
 
 <div align="center">
 
@@ -245,7 +245,7 @@ print(me.daily_routine())
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%2C+solve+the+problem.+Then%2C+write+the+code.&author=John+Johnson" alt="quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Arise%2C+Awake%2C+and+Stop+not+till+the+goal+is+reached.&author=Swami+Vivekananda" alt="quote" />
 
 </div>
 
