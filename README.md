@@ -1,9 +1,9 @@
-﻿<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3776AB,100:FFD343&height=200&section=header&text=Atul%20Kumar&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=AI/ML%20%7C%20Full%20Stack%20Dev%20%7C%20Open%20Source&descAlignY=60&animation=fadeIn" alt="header" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=FFD343&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Atul+Kumar;AI%2FML+%26+Full+Stack+Engineer;FinTech+%26+Agentic+AI+Explorer;Turning+Coffee+into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=FFD343&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Atul+Kumar;AI%2FML+%26+Full+Stack+Developer;FinTech+%26+Agentic+AI+Explorer;Turning+Coffee+into+Code" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -30,36 +30,34 @@
 
 class AtulKumar:
     name       = "Atul Kumar"
-    role       = "AI/ML & Full Stack Engineer"
-    superpower = "ðŸ Python"
-    building   = "CogniGraph â€” AI-Powered Knowledge Workspace"
+    role       = "AI/ML & Full Stack Developer"
+    superpower = "🐍 Python"
     stack      = ["Python", "FastAPI", "LangGraph", "PyTorch", "React", "Next.js"]
     interests  = ["Agentic AI", "RAG Systems", "FinTech", "MLOps"]
     contact    = "atulkumar.m512@gmail.com"
 
     def daily_routine(self):
-        return "â˜• Coffee  â†’  ðŸ Python  â†’  ðŸ§  AI  â†’  ðŸš€ Ship"
+        return "☕ Coffee  →  🐍 Python  →  🧠 AI  →  🚀 Ship"
 
 me = AtulKumar()
 print(me.daily_routine())
-# Output: â˜• Coffee  â†’  ðŸ Python  â†’  ðŸ§  AI  â†’  ðŸš€ Ship
+# Output: ☕ Coffee  →  🐍 Python  →  🧠 AI  →  🚀 Ship
 ```
 
 </div>
 
 ---
 
-## âœ¨ About Me
+## ✨ About Me
 
-- ðŸ”­ Currently building: **CogniGraph** â€” AI-Powered Knowledge Workspace (Gemini + LangGraph RAG)
-- ðŸŒ± Currently learning: **LangGraph**, **Agentic AI**, **MLOps**, **RAG Systems**
-- ðŸ§  Focus areas: **AI/ML Engineering**, **FinTech & Compliance**, **Full Stack Development**
-- ðŸ **Python** is my go-to language for everything â€” ML, backends, automation & scripting
-- ðŸ“« Reach me: **atulkumar.m512@gmail.com**
+- 🌱 Currently learning: **LangGraph**, **Agentic AI**, **MLOps**, **RAG Systems**
+- 🧠 Focus areas: **AI/ML Engineering**, **FinTech & Compliance**, **Full Stack Development**
+- 🐍 **Python** is my go-to language for everything — ML, backends, automation & scripting
+- 📫 Reach me: **atulkumar.m512@gmail.com**
 
 ---
 
-## ðŸŒ Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -72,7 +70,7 @@ print(me.daily_routine())
 
 ---
 
-## ðŸ’» Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -80,7 +78,7 @@ print(me.daily_routine())
   <tr>
     <td colspan="3" bgcolor="#111827">
       <strong>Languages</strong> &nbsp;
-      <img src="https://img.shields.io/badge/Python-â˜…â˜…â˜…â˜…â˜…-FFD343?style=flat&logo=python&logoColor=3776AB" alt="Python level" />
+      <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-FFD343?style=flat&logo=python&logoColor=3776AB" alt="Python level" />
       <br /><br />
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=py,c,js,ts,go,rust,bash,html,css&theme=dark&perline=9" alt="languages" />
@@ -115,7 +113,7 @@ print(me.daily_routine())
       </a>
     </td>
     <td bgcolor="#111827" valign="top">
-      <strong>ðŸ ML & AI (Python)</strong><br /><br />
+      <strong>🐍 ML & AI (Python)</strong><br /><br />
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark&perline=4" alt="ml and ai" />
       </a>
@@ -154,7 +152,7 @@ print(me.daily_routine())
 
 ---
 
-## ðŸ“Š GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -181,7 +179,7 @@ print(me.daily_routine())
 
 ---
 
-## ðŸ“ˆ Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -191,7 +189,7 @@ print(me.daily_routine())
 
 ---
 
-## ðŸ Python Snake Contributions
+## 🐍 Python Snake Contributions
 
 <div align="center">
 
@@ -205,7 +203,7 @@ print(me.daily_routine())
 
 ---
 
-## ðŸ”­ Featured Projects
+## 🔭 Featured Projects
 
 <div align="center">
 
@@ -231,13 +229,13 @@ print(me.daily_routine())
 
 ---
 
-## ðŸŽ¯ What Drives Me
+## 🎯 What Drives Me
 
 <div align="center">
 
-âœ¨ **Building Intelligent Systems** | ðŸ **Python-First Engineering** | ðŸ—ï¸ **Scaling from MVP to Production**
+✨ **Building Intelligent Systems** | 🐍 **Python-First Engineering** | 🏗️ **Scaling from MVP to Production**
 
-âš¡ **Agentic AI & RAG** | ðŸŒ **Open Source Collaboration** | ðŸ§© **Solving Real-World Problems**
+⚡ **Agentic AI & RAG** | 🌐 **Open Source Collaboration** | 🧩 **Solving Real-World Problems**
 
 </div>
 
@@ -252,4 +250,3 @@ print(me.daily_routine())
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3776AB,100:FFD343&height=120&section=footer" alt="footer" />
 </div>
-
